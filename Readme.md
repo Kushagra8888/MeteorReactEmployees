@@ -12,3 +12,4 @@ An app that shows a bunch of employees and allows the user to fetch more employe
 
 * Using MongoDB instance spup up by Meteor.
 * Using faker to generate fake data.
+* Restricting data fetching from Mongo using the Publisher - Subscriber model.
